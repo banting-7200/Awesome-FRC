@@ -19,8 +19,15 @@ Websites
 
 ## Libraries
 
-
+|                      Name                      |                                                    Description                                                    |
+|:----------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
+| [WPILib Suite](https://github.com/wpilibsuite) | The official repositories of the WPILib Suite, a robotics software library used in the FIRST Robotics Competition |
+|      [RobotPy](https://github.com/robotpy)     |                            Unofficial pure Python implementations of the WPILib suite.                            |
 
 ## Tools
 
-## Websites
+## Applications
+
+|                       Name                       |                          Description                         |
+|:------------------------------------------------:|:------------------------------------------------------------:|
+| [Pitmon](https://github.com/banting-7200/Pitmon) | See official rankings, statistics, and more all in your pit. |
