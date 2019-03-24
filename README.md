@@ -1,4 +1,4 @@
-# Awesome FRC
+# Awesome FRC ✨
 
 A curated list of APIs, tools, and more. Useful for FRC teams.
 
@@ -9,7 +9,7 @@ Libraries
 Tools
 Websites
 
-## APIs
+## APIs 🖥️
 
 |                                  Name                                 |                                                 Description                                                |
 |:---------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
@@ -17,16 +17,16 @@ Websites
 |  [TheBlueAlliance API (v3)](https://www.thebluealliance.com/apidocs)  |  TheBlueAlliance offers event listings, team & match statistics, and results through their Developer API.  |
 | [Official FRC API](https://frc-events.firstinspires.org/services/API) |                      The official FRC API offers large amounts of team and match data.                     |
 
-## Libraries
+## Libraries 📚
 
 |                      Name                      |                                                    Description                                                    |
 |:----------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
 | [WPILib Suite](https://github.com/wpilibsuite) | The official repositories of the WPILib Suite, a robotics software library used in the FIRST Robotics Competition |
 |      [RobotPy](https://github.com/robotpy)     |                            Unofficial pure Python implementations of the WPILib suite.                            |
 
-## Tools
+## Tools 🔧
 
-## Applications
+## Applications 📱
 
 |                       Name                       |                          Description                         |
 |:------------------------------------------------:|:------------------------------------------------------------:|
