@@ -2,7 +2,7 @@
 
 A curated list of APIs, tools, and more. Useful for FRC teams.
 
-## Table of Contents
+## Table of Contents 📜
 
 APIs
 Libraries
