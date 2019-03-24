@@ -11,8 +11,8 @@ Websites
 
 ## APIs
 
-|         Name        |                                                 Description                                                |
-|:-------------------:|:----------------------------------------------------------------------------------------------------------:|
+|        Name         |                                                Description                                                 |
+| :-----------------: | :--------------------------------------------------------------------------------------------------------: |
 | FRC Events API (v2) | FMS FRC Events API is a service to return relevant information about the FIRST Robotics Competition (FRC). |
 |                     |                                                                                                            |
 |                     |                                                                                                            |
