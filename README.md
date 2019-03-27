@@ -31,3 +31,5 @@ Websites
 |                       Name                       |                          Description                         |
 |:------------------------------------------------:|:------------------------------------------------------------:|
 | [Pitmon](https://github.com/banting-7200/Pitmon) | See official rankings, statistics, and more all in your pit. |
+| [FRC Spyder](https://play.google.com/store/apps/details?id=com.dwabtech.frcspyder&hl=en) | FRC Spyder gives you access to up-to-the-minute results for all FIRST Robotics Competition events of the 2019 season. |
+| [Robot Scouter](https://play.google.com/store/apps/details?id=com.supercilex.robotscouter&hl=en_CA) | Robot Scouter is an open-source Android app with three core goals: to make FIRST competition robot scouting easy, efficient, and collaborative. |
