@@ -17,6 +17,7 @@ Websites
 |  [TheBlueAlliance API (v3)](https://www.thebluealliance.com/apidocs)  |  TheBlueAlliance offers event listings, team & match statistics, and results through their Developer API.  |
 | [Official FRC API](https://frc-events.firstinspires.org/services/API) |                      The official FRC API offers large amounts of team and match data.                     |
 
+
 ## Libraries 📚
 
 |                      Name                      |                                                    Description                                                    |
@@ -26,8 +27,11 @@ Websites
 
 ## Applications 📱
 
+### __NOTE:__ Mobile apps are only listed for Android. If you find an iOS equivalent, then make a PR :^)
+
 |                       Name                       |                          Description                         |
 |:------------------------------------------------:|:------------------------------------------------------------:|
 | [Pitmon](https://github.com/banting-7200/Pitmon) | See official rankings, statistics, and more all in your pit. |
 | [FRC Spyder](https://play.google.com/store/apps/details?id=com.dwabtech.frcspyder&hl=en) | FRC Spyder gives you access to up-to-the-minute results for all FIRST Robotics Competition events of the 2019 season. |
 | [Robot Scouter](https://play.google.com/store/apps/details?id=com.supercilex.robotscouter&hl=en_CA) | Robot Scouter is an open-source Android app with three core goals: to make FIRST competition robot scouting easy, efficient, and collaborative. |
+| [TheBlueAlliance](https://play.google.com/store/apps/details?id=com.thebluealliance.androidclient&hl=en) | The Blue Alliance is the best way to scout, watch, and relive the FIRST Robotics Competition. |
