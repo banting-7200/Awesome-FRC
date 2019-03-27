@@ -4,12 +4,12 @@ A curated list of APIs, tools, and more. Useful for FRC teams.
 
 ## Table of Contents 📜
 
-APIs
-Libraries
-Tools
-Websites
+[APIs](#APIs)
+[Libraries](#Libraries)
+[Tools](#Tools)
+[Websites](#Websites)
 
-## APIs 🖥️
+## <a name="APIs"></a> APIs 🖥️
 
 |                                  Name                                 |                                                 Description                                                |
 |:---------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
@@ -18,14 +18,14 @@ Websites
 | [Official FRC API](https://frc-events.firstinspires.org/services/API) |                      The official FRC API offers large amounts of team and match data.                     |
 
 
-## Libraries 📚
+## <a name="Libraries"></a> Libraries 📚
 
 |                      Name                      |                                                    Description                                                    |
 |:----------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
 | [WPILib Suite](https://github.com/wpilibsuite) | The official repositories of the WPILib Suite, a robotics software library used in the FIRST Robotics Competition |
 |      [RobotPy](https://github.com/robotpy)     |                            Unofficial pure Python implementations of the WPILib suite.                            |
 
-## Applications 📱
+## <a name="Applications"></a> Applications 📱
 
 ### __NOTE:__ Mobile apps are only listed for Android. If you find an iOS equivalent, then make a PR :^)
 
