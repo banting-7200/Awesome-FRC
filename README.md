@@ -4,10 +4,9 @@ A curated list of APIs, tools, and more. Useful for FRC teams.
 
 ## Table of Contents 📜
 
-[APIs](#APIs)
-[Libraries](#Libraries)
-[Tools](#Tools)
-[Websites](#Websites)
+- [APIs](#APIs)
+- [Libraries](#Libraries)
+- [Websites](#Websites)
 
 ## <a name="APIs"></a> APIs 🖥️
 
