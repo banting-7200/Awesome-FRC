@@ -34,3 +34,4 @@ A curated list of APIs, tools, and more. Useful for FRC teams.
 | [FRC Spyder](https://play.google.com/store/apps/details?id=com.dwabtech.frcspyder&hl=en) | FRC Spyder gives you access to up-to-the-minute results for all FIRST Robotics Competition events of the 2019 season. |
 | [Robot Scouter](https://play.google.com/store/apps/details?id=com.supercilex.robotscouter&hl=en_CA) | Robot Scouter is an open-source Android app with three core goals: to make FIRST competition robot scouting easy, efficient, and collaborative. |
 | [TheBlueAlliance](https://play.google.com/store/apps/details?id=com.thebluealliance.androidclient&hl=en) | The Blue Alliance is the best way to scout, watch, and relive the FIRST Robotics Competition. |
+| [WPILib Libraries](https://wpilib.screenstepslive.com/s/currentCS/m/java/l/1035724-3rd-party-libraries) | A list of third party libraries that may need to be used by a team. |
